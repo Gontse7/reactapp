@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-      <Weather />
+      <Weather defaultCity="New York"/>
       <footer>
         Coded by Gontse H Mogana with an{" "}
         <a href="https://github.com/Gontse7/reactapp" target="_blank" rel="noreferrer">open source</a> code.
