@@ -14,7 +14,7 @@ if (minutes < 10) {
 }
 return(
     <div>
-        (day) (hours):(minutes)
+        {day} {hours}:{minutes}
     </div>
 );
 }
