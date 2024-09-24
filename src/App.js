@@ -9,7 +9,7 @@ function App() {
       <Weather defaultCity="New York"/>
       <footer>
         Coded by Gontse H Mogana with an{" "}
-        <a href="https://github.com/Gontse7/reactapp" target="_blank" rel="noreferrer">open source</a> code.
+        <a href="https://github.com/Gontse7/reactapp" target="_blank" rel="noreferrer">open source</a> code and hosted on <a href="">Netlify</a>.
       </footer>
       </div>
     </div>
